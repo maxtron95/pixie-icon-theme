@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#f97263" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path828" d="m23.721 26.797 1.1503 2.4871s-2.5558 2.8913-5.9069 2.8913c-4.0341 0-8.9226-2.7697-8.9226-8.1764 0-3.7885 3.8047-8.0521 8.021-8.0521 6.1887 0 8.1143 5.6582 8.1143 5.6582l3.6063 7.1505s0.80562 1.1867 2.9108 1.1867c2.2446 0 3.3173-1.1877 3.3265-2.6168 0.0095-1.4714-2.7298-2.273-4.0922-2.8291-1.9093-0.77931-3.9524-2.4476-3.9172-4.4147 0.04559-2.5503 2.0815-4.0493 3.9794-4.0727 2.6823-0.03305 3.9088 1.3749 3.9794 2.2073 0.03307 0.38966-0.38723 0.62405-0.99485 0.62178-0.44088-0.0016-0.78976-0.40324-1.2125-0.52852-0.60438-0.17911-0.98375-0.43631-1.8653-0.31089-0.91421 0.13006-2.0506 0.38434-1.9897 1.9275 0.05492 1.3917 2.0366 2.0457 3.3576 2.4871 1.928 0.64422 4.9454 2.5065 4.8703 4.7255-0.08864 2.6199-2.2605 5.1039-5.3793 5.1039-3.7892 0-5.087-2.5546-5.087-2.5546l-3.5442-7.7101s-1.5755-4.1038-6.1556-4.1038c-2.8647 0-6.0255 3.3701-5.8758 6.2178 0.18169 3.4562 2.9737 5.9691 6.964 5.9691 2.4556 0 4.6634-3.2644 4.6634-3.2644z" fill="#fff"/>
+ </g>
+</svg>

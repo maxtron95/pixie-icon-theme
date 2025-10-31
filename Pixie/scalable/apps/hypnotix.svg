@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#efefef" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path830" d="m18.721 6c-0.71906 1.3777-1.5116 3.4146-1.7207 6-0.24259 3 1 5 1 5h6s-0.80385-2 0-5c0.5972-2.2288 2.409-4.4554 3.8906-6h-9.1699zm-8.6699 0.32812c-2.3598 0.80659-4.0508 3.032-4.0508 5.6719v6.6523c0.74445 1.3568 1.6992 2.8128 2.9121 4.0938 2.0694 2.1855 4.3867 2.5977 4.3867 2.5977l4.0098-4.4629s-2.7361-0.49582-4.2891-3.1855c-2.4863-4.3065-2.9453-8.7618-2.9688-11.367zm29.729 4.5586c-4.0738-0.0041-10.002 0.57904-12.645 3.7148-1.9396 2.3015-2.5977 4.3887-2.5977 4.3887l4.4629 4.0098s-0.28152-1.9588 2.4082-3.5117c4.2954-2.48 8.2959-1.5209 10.592-0.54492v-6.9434c0-0.36052-0.037284-0.712-0.097656-1.0547-0.62224-0.031751-1.3145-0.057776-2.123-0.058593zm-5.0781 11.77-4.0098 4.4629s2.7361 0.49582 4.2891 3.1855c2.4863 4.3065 2.9453 8.7618 2.9688 11.367 2.3598-0.80659 4.0508-3.032 4.0508-5.6719v-6.6523c-0.74445-1.3568-1.6992-2.8128-2.9121-4.0938-2.0694-2.1855-4.3867-2.5977-4.3867-2.5977zm-15.701 2.3438s0.28152 1.9588-2.4082 3.5117c-4.2954 2.48-8.2959 1.5209-10.592 0.54492v6.9434c0 0.36119 0.037066 0.71336 0.097656 1.0566 3.7717 0.18881 11.61 0.088466 14.768-3.6582 1.9396-2.3015 2.5977-4.3887 2.5977-4.3887l-4.4629-4.0098zm5 6s0.80385 2 0 5c-0.5972 2.2288-2.409 4.4554-3.8906 6h9.1699c0.71906-1.3777 1.5116-3.4146 1.7207-6 0.24259-3-1-5-1-5h-6z" fill="#71b9e3"/>
+  <rect id="rect828" x="12" y="12" width="24" height="24" ry="12" fill="#efefef" fill-rule="evenodd" style="paint-order:normal"/>
+  <path id="path879" d="m21 20v8l7-4z" fill="#71b9e3" stroke="#71b9e3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+</svg>

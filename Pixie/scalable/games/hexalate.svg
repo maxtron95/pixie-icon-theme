@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+  <path id="path819-9" d="m24 22 4-16h-8z" fill="#d35244"/>
+  <path id="path819-9-3" d="m24 26 4 16h-8z" fill="#71b9e3"/>
+  <path id="path1093" d="m6.9395 8.7754c-0.59265 0.93072-0.93945 2.0349-0.93945 3.2246v5.666l16 5.334-15.061-14.225z" fill="#b072dd"/>
+  <path id="path1091" d="m41.061 8.7754-15.061 14.225 16-5.334v-5.666c0-1.1897-0.3468-2.2939-0.93945-3.2246z" fill="#ffdd75"/>
+  <path id="path1089" d="m22 25-16 5.334v5.666c0 1.1897 0.3468 2.2939 0.93945 3.2246l15.061-14.225z" fill="#627ad4"/>
+  <path id="path819-9-8" d="m26 25 15.061 14.225c0.59265-0.93072 0.93945-2.0349 0.93945-3.2246v-5.666l-16-5.334z" fill="#96d56b"/>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-6">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-60">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#96d56b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path896" d="m12.397 19.784c-0.49837-0.97361-0.68691-3.2364 0.41495-3.6827s2.2863 1.1763 2.6453 2.1785 0.30974 2.4985-0.57055 2.9046-1.9913-0.42684-2.4897-1.4004z" fill="#fff"/>
+  <path id="path898" d="m16.546 16.36c-0.39481-1.1659-0.4949-3.2458 0.67429-3.6308 1.0109-0.33288 1.8823 0.43011 2.3341 2.1785 0.29062 1.1247 0.23121 3.0388-0.88176 3.3714-0.91486 0.27342-1.8204-1.0147-2.1266-1.9191z" fill="#fff"/>
+  <path id="path900" d="m21.785 13.611c-0.04544-1.7418 0.89906-3.0432 2.1266-3.0084 0.97826 0.02776 1.8231 0.99238 1.5561 2.4897-0.24586 1.3786-0.88523 3.624-2.2822 3.5271-1.1035-0.07661-1.3716-1.9026-1.4004-3.0084z" fill="#fff"/>
+  <path id="path902" d="m28.683 17.709c-1.7403-1.1379-0.89451-4.609 0.41495-6.2242 1.3236-1.6327 4.5466-3.1611 6.0686-1.7117 1.2847 1.2235 0.25618 3.8359-0.8299 5.2387-1.2167 1.5714-3.9903 3.7848-5.6537 2.6972z" fill="#fff"/>
+  <path id="path904" d="m16.754 34.151c-1.9565-2.6481-3.4375-6.8055-1.8673-9.6994 2.1008-3.8718 7.8414-5.1974 12.241-4.9794 1.7766 0.08806 4.7298 0.71091 4.72 2.4897-0.03175 5.7563-9.4464 6.9902-9.3363 10.477 0.03899 1.2347 1.1514 2.1359 2.3859 2.1785 2.2346 0.077 1.6563-4.039 5.1868-3.942 1.0388 0.02855 2.2863 1.1407 2.2303 2.1785-0.16563 3.0738-4.1954 5.8993-7.2616 6.1723-3.1201 0.27785-6.4375-2.3562-8.299-4.8756z" fill="#fff"/>
+ </g>
+</svg>

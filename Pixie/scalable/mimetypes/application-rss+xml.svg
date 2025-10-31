@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path819" d="m10 6v36h28v-26l-10-10z" fill="#efefef" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path id="path819-8" d="m10 2c-2.209 2.209e-4 -3.9998 1.791-4 4v36c2.209e-4 2.209 1.791 3.9998 4 4h28c2.209-2.21e-4 3.9998-1.791 4-4v-26c-2.04e-4 -1.0608-0.42173-2.0781-1.1719-2.8281l-10-10c-0.75005-0.75014-1.7673-1.1717-2.8281-1.1719zm0 1h18c0.79601 1.532e-4 1.5583 0.31601 2.1211 0.87891l10 10c0.5629 0.56283 0.87875 1.3251 0.87891 2.1211v26c-1.67e-4 1.6687-1.3313 2.9998-3 3h-28c-1.6687-1.67e-4 -2.9998-1.3313-3-3v-36c1.668e-4 -1.6687 1.3313-2.9998 3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="rect830-6-9" d="m12 18v4.7143c9.5763 0 17.286 7.7094 17.286 17.286h4.7143c0-12.188-9.812-22-22-22zm0 7.8571v4.7143c5.2234 0 9.4286 4.2051 9.4286 9.4286h4.7143c0-7.8351-6.3077-14.143-14.143-14.143z" fill="#f6a559" fill-rule="evenodd" style="paint-order:normal"/>
+  <rect id="rect828" x="12" y="34" width="6" height="6" ry="3" fill="#f6a559" fill-rule="evenodd" style="paint-order:normal"/>
+ </g>
+</svg>

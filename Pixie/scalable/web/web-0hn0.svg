@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-44">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3-47">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-12">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-3">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-12-9">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-09">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="#efefef" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect818" x="12" y="12" width="11" height="11" ry="5.5" fill="#72caec" fill-rule="evenodd" style="paint-order:normal"/>
+  <rect id="rect882-7-6" x="25" y="25" width="11" height="11" ry="5.5" fill="#f97263" fill-rule="evenodd" style="paint-order:normal"/>
+  <rect id="rect818-0" x="25" y="12" width="11" height="11" ry="5.5" fill="#72caec" fill-rule="evenodd" style="paint-order:normal"/>
+  <path id="path984" d="m19.455 20.06h-3.87v-0.81438q0.44361-0.32112 0.88722-0.68196 0.44692-0.36084 0.71507-0.62237 0.40057-0.38733 0.56941-0.67534 0.16884-0.28801 0.16884-0.5694 0-0.33767-0.21849-0.51975-0.21518-0.18539-0.62237-0.18539-0.30457 0-0.64224 0.1258-0.33436 0.1258-0.62237 0.32112h-0.10594v-1.0958q0.23504-0.10262 0.6919-0.20525 0.46016-0.10263 0.92032-0.10263 0.92694 0 1.4136 0.39064 0.48664 0.38733 0.48664 1.0991 0 0.46678-0.23504 0.88722-0.23174 0.42043-0.71176 0.86735-0.30126 0.27808-0.60582 0.51313-0.30457 0.23174-0.43368 0.32443h2.2147z" fill="#fff"/>
+  <path id="path986" d="m32.153 20.016h-3.3306v-0.87119h1.0521v-2.637h-1.0521v-0.81422q0.24125 0 0.4624-0.0268 0.22115-0.03015 0.36858-0.10052 0.17424-0.08376 0.26136-0.2178 0.08712-0.13403 0.10052-0.33507h1.1091v4.1314h1.0287z" fill="#fff"/>
+ </g>
+</svg>

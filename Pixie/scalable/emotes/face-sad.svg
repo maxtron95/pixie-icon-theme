@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="20" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect845" d="m24 4c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20zm0 1c10.526 0 19 8.474 19 19s-8.474 19-19 19-19-8.474-19-19 8.474-19 19-19z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect939" x="12" y="14" width="6" height="12" ry="3" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:normal"/>
+  <rect id="rect941" x="30" y="14" width="6" height="12" ry="3" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:normal"/>
+  <path id="path937" d="m18 33s2-2.0159 6-2.0079c4 0.00795 6 2.0079 6 2.0079" fill="none" stroke="#4e4e4e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+</svg>

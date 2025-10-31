@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3-47">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-12">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-3">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-12-9">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-09">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="#efefef" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <g id="g907">
+   <path id="path902" d="m24 25v3l-1 2-2-2z" fill="#71d567"/>
+   <path id="path900" d="m19 29 4-2v3l-3 2z" fill="#6761bf"/>
+   <path id="path898" d="m15 30v-3h5l4-2-1 2-3 2v3z" fill="#f09d55"/>
+  </g>
+  <path id="path1038" d="m15 27 5 2 3-2 1-2-2-1z" fill="#c0f46f"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path941" d="m26 25 4 4 6-4-2-1z" fill="#f4cc6f"/>
+  <path id="path873" d="m26 25v4l4 3 1-2-1-2z" fill="#4ca0c5"/>
+  <path id="path939" d="m30 28 6-3v2l-6 5z" fill="#71d567"/>
+  <rect id="rect881" x="29" y="21" width="4" height="4" ry="2" fill="#f09d55" fill-rule="evenodd" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <rect id="rect937" x="21" y="31" width="6" height="6" ry="3" fill="#6761bf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect889" x="34" y="28" width="4" height="4" ry="2" fill="#f97263" fill-rule="evenodd" stroke-width="1.3333" style="paint-order:stroke fill markers"/>
+  <rect id="rect891" x="28" y="18" width="2" height="2" ry="1" fill="#4ca0c5" fill-rule="evenodd" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <path id="path925" d="m12 25 8 3v-3l-8-3z" fill="#6761bf"/>
+  <path id="path927" d="m20 25 7-6v2l-7 7z" fill="#f97263"/>
+  <path id="path929" d="m12 22 8 3 7-6-2-1z" fill="#f4cc6f"/>
+  <path id="path935" d="m14 14 4 2 5-2-4-1z" fill="#f09d55"/>
+  <path id="path933" d="m18 21-4-2v-5l4 1 2 3z" fill="#71d567"/>
+  <path id="path931" d="m18 21v-6l5-1v6z" fill="#f97263"/>
+ </g>
+</svg>

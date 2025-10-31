@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-6">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-9">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-1-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <linearGradient id="linearGradient845" x1="8" x2="40" y1="40" y2="8" gradientUnits="userSpaceOnUse">
+   <stop id="stop839" stop-color="#6e8ab1" offset="0"/>
+   <stop id="stop847" stop-color="#9d3f31" offset=".5"/>
+   <stop id="stop841" stop-color="#ffb310" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="url(#linearGradient845)" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path832" d="m28.644 10.914c-0.78966-0.08634-1.4326 0.8094-1.8765 1.4681-1.6974 2.5186-3.1302 4.9952-4.7331 5.5213-1.2356 0.40554-1.8177 0.75172-2.5156 1.4783-0.69795 0.72662-1.6723 1.948-1.6723 1.948l2.1127 1.6696c0.39444-0.1642 2.5648-1.7502 7.033-9.5779-2.9757 7.087-5.4743 10.467-5.4743 10.467-1.6837 3.2886-5.4396 5.1946-5.4396 5.1946s1.4347-0.90193 2.4482-0.02859c1.7957 1.5473 3.6448 6.9629 3.6448 6.9629s1.5775-0.51775 2.828-1.5233c3.3385-2.6843 4.8368-6.326 7.1528-6.5545 2.0778-0.205 2.5631 1.4827 5.848 3.6734 0-1e-6 -2.1841-4.9116-3.0465-7.4529-1.1978-3.5297-2.373-6.9808-3.6448-10.009-0.54114-1.2886-1.2753-3.0845-2.6647-3.2364z" fill="#fff"/>
+  <path id="path834" d="m10.04 24.704 5.8656-2.575 3.291 2.3712c-1.9791 2.7532-4.6434 3.3535-4.6434 3.3535z" fill="#fff"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-63">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-6">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-9">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-1-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-51">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#565d60" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path817-8-3-6" d="m13.48 11.943c-3.3567 2.9287-5.4805 7.2315-5.4805 12.057h16l-5.5996-8.8008-4.9199-3.2559z" fill="#b072dd"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+  <path id="path817-8-3-6-0" d="m34.52 11.943-4.9199 3.2559-5.5996 8.8008h16c0-4.8251-2.1237-9.1279-5.4805-12.057z" fill="#f68d59"/>
+  <path id="path817-8-3-6-2" d="m8 24c0 4.8251 2.1237 9.1279 5.4805 12.057l4.9199-3.2559 5.5996-8.8008h-16z" fill="#729dec"/>
+  <path id="path817-8-3-6-0-7" d="m24 24 5.5996 8.8008 4.9199 3.2559c3.3567-2.9287 5.4805-7.2315 5.4805-12.057h-16z" fill="#ffdd75"/>
+  <path id="path817-8-0" d="m24 8-1.5996 8 1.5996 8 11.324-11.324c-2.892-2.892-6.8922-4.6758-11.324-4.6758z" fill="#d35244"/>
+  <path id="path817-8" d="m24 8c-4.432 0-8.4322 1.7838-11.324 4.6758l11.324 11.324v-16z" fill="#f280a3"/>
+  <path id="path817-8-3" d="m24 24-11.324 11.324c2.892 2.892 6.8922 4.6758 11.324 4.6758l1.5996-8-1.5996-8z" fill="#96dfd3"/>
+  <path id="path817-8-3-0" d="m24 24v16c4.432 0 8.4322-1.7838 11.324-4.6758l-11.324-11.324z" fill="#96d56b"/>
+  <rect id="rect901" x="12" y="12" width="24" height="24" ry="12" fill="#565d60" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path1009-5" d="m28.32 15.336s-9.8956 9.9034-14.843 14.855c-1.4137 1.4148-0.70571 3.5358-0.70571 3.5358l-1.4137 1.4148 1.4148 1.4137 1.4137-1.4148s2.1216 0.70627 3.5353-0.7085c4.9478-4.9517 14.843-14.855 14.843-14.855z" fill="#fff"/>
+  <rect id="rect1005-6" transform="rotate(44.977)" x="30.873" y="-17.169" width="6" height="8" ry="3" fill="#d1d1d1" fill-rule="evenodd" style="paint-order:normal"/>
+  <rect id="rect1007-7" transform="rotate(44.977)" x="28.873" y="-12.169" width="10" height="4" ry="1" fill="#d1d1d1" fill-rule="evenodd" style="paint-order:normal"/>
+ </g>
+</svg>

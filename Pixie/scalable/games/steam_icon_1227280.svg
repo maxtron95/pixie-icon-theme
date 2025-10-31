@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-36">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-9">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="#9fc0da" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect918" x="8" y="8" width="32" height="32" ry="4" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path819" d="m12 9c-1.662 0-3 1.338-3 3v2.2246l15.037 9.7734-9.6621-14.998h-2.375zm12.037 14.998 3.75-14.998h-7.5l3.75 14.998zm0 0 14.963-9.7246v-2.2734c0-1.662-1.338-3-3-3h-2.3008l-9.6621 14.998zm0 0 14.963 3.7402v-7.4805l-14.963 3.7402zm0 0 9.6641 15.002h2.2988c1.662 0 3-1.338 3-3v-2.2773l-14.963-9.7246zm0 0-3.75 15.002h7.5l-3.75-15.002zm0 0-15.037 9.7734v2.2285c0 1.662 1.338 3 3 3h2.373l9.6641-15.002zm0 0-15.037-3.7598v7.5195l15.037-3.7598z" fill="#fff" opacity=".1"/>
+  <path id="path832-0" d="m10 19v8l2 2h4l2-2v-2h-2l-4-6zm26 0-4 6h-2v2l2 2h4l2-2v-8zm-15 8-4 4v2h14v-2l-4-4z" fill="#ff89bf"/>
+  <path id="path832" d="m17 32v-2l4-4h6l4 4v2z" fill="#fff"/>
+  <path id="path834" d="m18 26-2 2h-4l-2-2v-8h2l4 6h2z" fill="#fff"/>
+  <path id="path834-0" d="m30 26 2 2h4l2-2v-8h-2l-4 6h-2z" fill="#fff"/>
+  <path id="path1007" d="m34.289 20.768c-0.0012 0.01211-0.0066 0.02501-0.0078 0.03711-0.0027-0.0067-0.0012-7e-3 -0.0039-0.01367 0.0037-0.0083 8e-3 -0.01511 0.01172-0.02344z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

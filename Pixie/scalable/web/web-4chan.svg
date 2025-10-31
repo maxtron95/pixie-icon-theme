@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-9" x="4" y="4" width="40" height="40" ry="8" fill="#4d824f" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+  <path id="path828" d="m25.813 23.004s8.2297-1.3645 8.8182-6.0462c0.17753-1.4123-0.59982-3.3214-2.5588-3.5578-0.71167-0.08587-1.734 0.5638-1.734 0.5638s-1.1392-2.0006-2.876-1.9441c-1.8126 0.05892-2.5815 1.8409-2.5799 4.3548 0.0018 2.7335 0.93046 6.6295 0.93046 6.6295z" fill="#fff"/>
+  <path id="path828-1" d="m21.255 25.009s-7.8688 2.1427-7.9238 6.854c-0.01661 1.4212 0.95235 3.2452 2.8875 3.2931 0.70304 0.0174 1.6274-0.72619 1.6274-0.72619s1.3317 1.8804 3.018 1.6584c1.7599-0.2317 2.3118-2.077 2.0319-4.5764-0.30438-2.7178-1.6409-6.5029-1.6409-6.5029z" fill="#fff"/>
+  <path id="path828-0" d="m25.048 25.911s1.2747 8.2297 5.9419 8.8669c1.4079 0.19222 3.3219-0.56349 3.5787-2.5165 0.09329-0.70951-0.54439-1.737-0.54439-1.737s2.0092-1.1159 1.9713-2.8503c-0.03957-1.81-1.8103-2.5965-4.3198-2.6216-2.7287-0.02721-6.6277 0.85841-6.6277 0.85841z" fill="#fff"/>
+  <path id="path828-1-7" d="m23.111 21.337s-2.0651-7.9151-6.7898-8.0206c-1.4253-0.03182-3.265 0.92055-3.3337 2.861-0.02496 0.70495 0.71099 1.64 0.71099 1.64s-1.9002 1.3156-1.6955 3.0092c0.21361 1.7676 2.0585 2.3408 4.5684 2.0868 2.7291-0.27629 6.5397-1.5764 6.5397-1.5764z" fill="#fff"/>
+ </g>
+</svg>

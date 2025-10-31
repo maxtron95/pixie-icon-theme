@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path874" d="m10 2c-2.216 0-4 1.784-4 4v4s0 1 0.013672 1.2793l3 32c0.14429 1.5416 1.438 2.7202 2.9863 2.7207h24c1.5483-4.73e-4 2.842-1.1791 2.9863-2.7207l3-32c0.013672-0.2793 0.013672-1.2793 0.013672-1.2793v-4c0-2.216-1.784-4-4-4z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#efefef" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <rect id="rect851" x="8" y="4" width="32" height="8" ry="2" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+  <path id="path874-4" d="m10 2c-2.216 0-4 1.784-4 4v4s-1e-7 1 0.013672 1.2793l3 32c0.14429 1.5416 1.438 2.7202 2.9863 2.7207h24c1.5483-4.73e-4 2.842-1.1791 2.9863-2.7207l3-32c0.013672-0.2793 0.013672-1.2793 0.013672-1.2793v-4c0-2.216-1.784-4-4-4h-28zm0 1h28c1.6793 0 3 1.3207 3 3v4s-0.004099 1.0055-0.011719 1.2031l-2.998 31.982c-0.097014 1.0365-0.94919 1.8141-1.9902 1.8145h-24c-1.041-3.18e-4 -1.8932-0.77794-1.9902-1.8145l-2.998-31.982c-0.0076444-0.19761-0.011719-1.2031-0.011719-1.2031v-4c0-1.6793 1.3207-3 3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="path952" d="m21 26 3-5 3 5" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="path952-6" d="m29 30 3 5h-6" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="path952-6-1" d="m19 30-3 5h6" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+</svg>

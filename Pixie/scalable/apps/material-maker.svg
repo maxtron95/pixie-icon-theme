@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <linearGradient id="linearGradient861" x1="6" x2="42" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+   <stop id="stop863" stop-color="#e671e2" offset="0"/>
+   <stop id="stop865" stop-color="#82d6f7" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="url(#linearGradient861)" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <g id="layer1-9" transform="matrix(1.4,0,0,1.4,-9.6,-8.2)" fill="#fff">
+   <path id="rect822-1" d="m24 13c-5.54 0-10 4.46-10 10s4.46 10 10 10 10-4.46 10-10-4.46-10-10-10zm0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z" fill-rule="evenodd" style="paint-order:normal"/>
+   <path id="path829" d="m16.217 21.124s0.30353-1.1237 0.98726-1.1305c0.89092-0.0088 1.0466 0.60769 1.0969 1.4163 0.06873 1.1037-0.543 2.2278-0.29159 3.3047 0.28381 1.2157 1.0433 1.5246 1.8051 1.4302 0.69454-0.0861 1.3921-0.97584 1.2775-1.6662-0.21848-1.3157-1.3173-1.9699-1.3608-3.0964-0.05535-1.4336 0.52636-1.8276 1.3052-2.0411 0.64479-0.17676 1.2221 0.18763 1.6145 0.608 0.42284 0.45298 0.7391 1.2402 1.2042 1.2388 0.8021-0.0025 0.91561-0.5729 1.1108-1.0414 0.30988-0.74369 0.88432-1.3946 1.5552-1.3052 0.97234 0.12956 1.6117 1.4375 1.6801 2.4161 0.10172 1.4537-1.6157 2.4254-1.9717 3.9018-0.15988 0.66301 0.36096 1.5794 1.0136 1.7773 0.83195 0.25228 1.8605 0.11341 2.3327-1.1664 0.48738-1.3209-0.12951-3.193 0.17403-4.2204 0.14609-0.49448 0.78812-0.93314 1.296-0.84438 0.90765 0.1586 0.98184 1.6102 0.98184 1.6102l1.0015-1.1782-2.1797-5.1252-3.3383-1.8851-3.1026-0.72656-4.4379 0.7462-3.0634 2.1404-2.1993 3.731z"/>
+  </g>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

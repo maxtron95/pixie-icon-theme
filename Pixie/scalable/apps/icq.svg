@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+  <path id="path829" d="m18.389 14.968c-0.20263-1.9737 1.6025-4.1582 3.9706-4.2414 2.7464-0.09652 4.5693 1.7372 4.6251 3.9054 0.04623 1.7984-2.0071 5.0393-2.0071 5.0393s-0.59111 1.3109-1.7889 1.3858c-1.0547 0.06594-1.9635-1.0498-1.9635-1.0498s-2.641-3.1382-2.8361-5.0393z" fill="#96d56b"/>
+  <path id="path829-8" d="m31.879 16.146c2.0655-0.87706 5.0112 0.26144 5.8707 2.6946 0.99677 2.8218-0.39102 5.3357-2.7144 6.1258-1.9271 0.65533-6.0942-0.38443-6.0942-0.38443s-1.6078-0.17169-2.0779-1.3914c-0.41396-1.0739 0.49562-2.3952 0.49562-2.3952s2.5306-3.8045 4.5202-4.6493z" fill="#96d56b"/>
+  <path id="path829-2" d="m27.096 34.595c1.0913 1.5417 3.7046 2.0292 5.3963 0.66684 1.962-1.58 2.08-3.9943 0.7655-5.5878-1.0903-1.3217-4.5346-2.4202-4.5346-2.4202s-1.2274-0.58816-2.1036 0.0774c-0.77146 0.586-0.70447 1.9346-0.70447 1.9346s0.12962 3.844 1.1808 5.3291z" fill="#96d56b"/>
+  <path id="path829-2-5" d="m21.248 35.483c-1.0425 1.8635-3.8836 2.7022-5.9035 1.3474-2.3426-1.5712-2.7331-4.2885-1.4492-6.2351 1.065-1.6146 4.7606-3.2356 4.7606-3.2356s1.2958-0.80011 2.3376-0.14375c0.91732 0.5779 0.98832 2.1104 0.98832 2.1104s0.27027 4.3615-0.73388 6.1565z" fill="#96d56b"/>
+  <path id="path829-89" d="m13.668 25.602c-1.7174-0.36855-3.0908-2.424-2.5455-4.3689 0.63246-2.2556 2.6531-3.2403 4.4965-2.6999 1.529 0.44818 3.7289 2.9904 3.7289 2.9904s0.95211 0.83392 0.7039 1.8266c-0.21854 0.874-1.3959 1.3104-1.3959 1.3104s-3.3335 1.2964-4.9878 0.9414z" fill="#96d56b"/>
+ </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <linearGradient id="linearGradient1103" x1="37" x2="37" y1="4" y2="29" gradientTransform="translate(-1,1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fa86de" offset="0"/>
+   <stop stop-color="#efefef" offset=".13333"/>
+   <stop stop-color="#efefef" offset=".48"/>
+   <stop stop-color="#efefef" offset=".8"/>
+   <stop stop-color="#8fdae8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1206" x1="20" x2="29" y1="40.7" y2="40.7" gradientTransform="matrix(1 0 0 .90909 0 4)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8fdae8" offset="0"/>
+   <stop stop-color="#efefef" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill-rule="evenodd">
+  <rect x="4" y="4" width="40" height="40" ry="8" fill="#efefef" style="paint-order:stroke fill markers"/>
+  <path d="m14 4v26h29c1 0 1 1 1 1v-19c0-4.432-3.568-8-8-8h-22z" fill="url(#linearGradient1103)" style="paint-order:normal"/>
+  <rect x="15" y="30" width="23" height="14" fill="url(#linearGradient1206)" stroke-width=".95346" style="paint-order:normal"/>
+  <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h2c2.216 0 4-1.784 4-4v-6s0-4 4-4h3c7.202 0 13-5.798 13-13s-5.798-13-13-13h-13z" fill="#efefef" style="paint-order:normal"/>
+  <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path d="m25 5c6.6653 0 12 5.3347 12 12s-5.3347 12-12 12h-3c-2.3333 0-3.7753 1.3142-4.3945 2.5527s-0.60547 2.4473-0.60547 2.4473v6c0 1.6793-1.3207 3-3 3h2.625c0.83684-0.73212 1.375-1.7957 1.375-3v-6s0-4 4-4h3c7.202 0 13-5.798 13-13 0-5.4199-3.284-10.043-7.9785-12h-5.0215z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

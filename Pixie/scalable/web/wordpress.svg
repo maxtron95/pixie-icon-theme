@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-6">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" fill-rule="evenodd">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="#447dab" style="paint-order:stroke fill markers"/>
+  <rect id="rect818" x="10" y="10" width="28" height="28" ry="14" fill="#fff" style="paint-order:normal"/>
+  <rect id="rect818-7" x="12" y="12" width="24" height="24" ry="12" fill="#447dab" style="paint-order:normal"/>
+  <path id="rect846" d="m32.107 15.012s-1.7659 0.40432-2.0762 1.8672c-0.3844 1.8123 1.6569 3.3976 1.8672 5.2383 0.15217 1.332-0.43195 3.7899-0.45508 3.8867l-1.9434 4.9961-3.5-13h2v-2h-8v2h2l1.6914 4.793-3.1914 8.207-4.5-13h2v-2h-5v2h-1l7 17 1 2 4.5391-11.803 3.4609 9.8027 1 2 5-13s0.99569-2.502 1.0117-3.8008c0.02661-2.156-1.2461-4.1504-1.2461-4.1504z" fill="#fff" style="paint-order:normal"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

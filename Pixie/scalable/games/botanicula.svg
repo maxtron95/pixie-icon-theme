@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-31">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-0">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-36">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <linearGradient id="linearGradient975" x1="18" x2="25" y1="17" y2="31" gradientUnits="userSpaceOnUse">
+   <stop id="stop969" stop-color="#f06549" offset="0"/>
+   <stop id="stop971" stop-color="#fc9b48" offset="1"/>
+  </linearGradient>
+  <style id="style819-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-5">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-5-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-2-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-36-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#a7b419" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect878" x="6" y="20" width="36" height="22" ry="6" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect1007" x="12" y="36" width="24" height="4" rx="12" ry="2" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect951" x="18" y="36" width="4" height="2" ry="1" fill="#f0cc98" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect953" x="21" y="33" width="1" height="4" fill="#f0cc98" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect955" x="27" y="33" width="1" height="4" fill="#f0cc98" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect957" x="24" y="36" width="4" height="2" ry="1" fill="#f0cc98" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path851" d="m24 8c-0.69872 0-0.51684 2.2386-1.3974 2.7949-2.7949 1.7656-9.4686 2.7949-10.481 13.276-0.27693 2.8676-0.48059 7.0963 2.0962 8.3846 2.7949 1.3974 6.2885 1.3974 9.7821 1.3974s6.9872 0 9.7821-1.3974c2.5768-1.2884 2.3731-5.5171 2.0962-8.3846-1.0122-10.481-7.6859-11.51-10.481-13.276-0.8806-0.55629-0.69872-2.7949-1.3974-2.7949z" fill="#fbead5"/>
+  <path id="path891" d="m16.619 31.968c-3.6193-3.968-2.2633-8.1312-2.2633-8.1312l2.0118-7.2091s-0.48453 2.9047 0.79635 4.2752c-0.38249-2.6616 0.54487-4.9877 0.54487-4.9877l3.9818-3.2273s-1.5052 1.6274-2.0118 2.5986c-0.75826 1.4535-1.467 4.6943-1.467 4.6943s1.4286-3.2935 2.4729-4.7362c0.85737-1.1845 3.0597-3.1435 3.0597-3.1435s-0.11728 1.531-0.41913 2.2214c-0.59214 1.3544-2.6405 3.5626-2.6405 3.5626s2.4959-1.9129 3.1854-3.2692c0.34036-0.66952 0.37722-2.2214 0.37722-2.2214s0.23254 3.2032 2.3052 5.4487c-1.0939-2.1294-1.2993-4.7362-1.2993-4.7362s1.7282 1.4899 2.3471 2.431c0.75702 1.1512 0.85827 2.6484 1.5927 3.8141 0.5591 0.88742 2.0957 2.3471 2.0957 2.3471s-1.6079-2.4085-2.1795-3.7303c-0.4106-0.94945-0.88018-2.9758-0.88018-2.9758s2.4452 1.2885 3.2692 2.3471c0.82068 1.0544 0.89678 2.5219 1.467 3.7303 0.24553 0.52034 0.84311 0.93354 0.83827 1.5089-0.0061 0.72607-1.0214 1.1632-1.0897 1.8861-0.09194 0.97214 1.1212 1.8025 0.96401 2.7663-0.32699 2.0051-3.7303 4.82-3.7303 4.82s1.7015-3.1052 1.9699-4.82c0.25139-1.606-0.37722-4.8619-0.37722-4.8619s0.03836 3.3398-0.46105 4.9039c-0.50076 1.5683-2.4729 4.2752-2.4729 4.2752s0.71452-2.8464-0.46105-5.1553c-0.3124 2.7131-1.2993 5.323-1.2993 5.323l-3.7303-0.25148s-1.5948-1.309-2.5567-2.6405c-0.7429 0.45348 0.83827 2.4729 0.83827 2.4729s-3.138-1.4478-4.3171-3.395c-0.89221 0.60606 0.92209 3.1016 0.92209 3.1016s-1.0044 1.3792-1.3831 0.96401z" fill="url(#linearGradient975)"/>
+  <rect id="rect829-5" x="14" y="22" width="5" height="5" ry="2.5" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect829" x="14" y="22" width="4" height="4" ry="2" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect831" x="14.603" y="23" width="1.3974" height="1.3974" ry=".69872" fill="#5a5a74" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect829-5-6" x="22" y="24" width="5" height="5" ry="2.5" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect829-3" x="22" y="24" width="4" height="4" ry="2" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect831-7" x="22.603" y="25" width="1.3974" height="1.3974" ry=".69872" fill="#5a5a74" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

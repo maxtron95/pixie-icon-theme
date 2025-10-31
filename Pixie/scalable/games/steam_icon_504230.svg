@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-36">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-0">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" fill-rule="evenodd">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#a6cbe9" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path1028" d="m24 12h-6v2h-2v2h-2v2h2v2h-2v10h2v2h2v2h2v2h2v2h4v-2h2v-2h2v-2h2v-2h2v-10h-2v-2h2v-2h-2v-2h-2v-2h-2v-2h-4z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#4e4e4e" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <rect id="rect4533" x="16" y="20" width="16" height="10" fill="#f97263" style="paint-order:stroke fill markers"/>
+  <rect id="rect4527" x="22" y="32" width="4" height="4" fill="#f97263" style="paint-order:stroke fill markers"/>
+  <rect id="rect4529" x="20" y="30" width="8" height="4" fill="#f97263" style="paint-order:stroke fill markers"/>
+  <rect id="rect4531" x="18" y="28" width="12" height="4" fill="#f97263" style="paint-order:stroke fill markers"/>
+  <rect id="rect4535" x="22" y="30" width="4" height="4" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4537" x="20" y="30" width="8" height="2" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4539" x="18" y="28" width="2" height="2" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4543" x="24" y="26" width="2" height="4" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4545" x="28" y="28" width="2" height="2" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect858" x="28" y="22" width="2" height="4" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4547" x="28" y="22" width="2" height="2" fill="#fdc7c1" style="paint-order:stroke fill markers"/>
+  <rect id="rect4549" x="24" y="26" width="2" height="2" fill="#fdc7c1" style="paint-order:stroke fill markers"/>
+  <rect id="rect4555" x="20" y="24" width="2" height="4" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4551" x="20" y="24" width="2" height="2" fill="#fdc7c1" style="paint-order:stroke fill markers"/>
+  <rect id="rect4553" x="18" y="20" width="2" height="2" fill="#fdc7c1" style="paint-order:stroke fill markers"/>
+  <rect id="rect4557" x="18" y="18" width="12" height="2" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4559" x="16" y="20" width="2" height="2" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4561" x="26" y="20" width="6" height="2" fill="#d35244" style="paint-order:stroke fill markers"/>
+  <rect id="rect4563" x="28" y="18" width="2" height="2" fill="#537b8f" style="paint-order:stroke fill markers"/>
+  <rect id="rect4565" x="22" y="18" width="4" height="2" fill="#537b8f" style="paint-order:stroke fill markers"/>
+  <rect id="rect4567" x="18" y="18" width="2" height="2" fill="#537b8f" style="paint-order:stroke fill markers"/>
+  <rect id="rect4571" x="20" y="16" width="8" height="2" fill="#537b8f" style="paint-order:stroke fill markers"/>
+  <rect id="rect4573" x="22" y="16" width="4" height="2" fill="#96d56b" style="paint-order:stroke fill markers"/>
+  <rect id="rect4575" x="18" y="14" width="4" height="2" fill="#96d56b" style="paint-order:stroke fill markers"/>
+  <rect id="rect4577" x="16" y="16" width="2" height="2" fill="#3fab84" style="paint-order:stroke fill markers"/>
+  <rect id="rect4579" x="24" y="12" width="4" height="4" fill="#96d56b" style="paint-order:stroke fill markers"/>
+  <rect id="rect4581" x="26" y="14" width="4" height="2" fill="#96d56b" style="paint-order:stroke fill markers"/>
+  <rect id="rect4583" x="30" y="16" width="2" height="2" fill="#3fab84" style="paint-order:stroke fill markers"/>
+  <rect id="rect4585" x="24" y="14" width="4" height="2" fill="#3fab84" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#dd5c89" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect1373-5-1" x="4" y="4" width="40" height="40" ry="8" fill="#dd5c89" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817-0" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path818-9" d="m24 11-5 5 5 5 5-5z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="path818-9-7" d="m16 19-5 5 5 5 5-5z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="path818-9-78" d="m32 19-5 5 5 5 5-5z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="path818-9-2" d="m24 27-5 5 5 5 5-5z" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <g id="g945-3" transform="rotate(15 45.781 -112.99)" fill-rule="evenodd">
+   <path id="rect879-2" d="m68.014 10.936c-2.9726 1.4662-5.0137 4.5138-5.0137 8.0645 0 3.5454 2.0346 6.5898 5 8.0586v14.941c0 1.108 0.892 2 2 2h4c1.108 0 2-0.892 2-2v-14.941c2.9654-1.4688 5-4.5132 5-8.0586 0-3.5507-2.0411-6.5982-5.0137-8.0645 0.001501 0.022513 0.013672 0.041547 0.013672 0.064453v8c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-8c0-0.02291 0.01217-0.04194 0.01367-0.06445z" fill="#efefef" style="paint-order:normal"/>
+   <path id="rect923-8" d="m68 31v11c0 1.108 0.892 2 2 2h4c1.108 0 2-0.892 2-2v-11z" fill="#7c8487" style="paint-order:normal"/>
+   <path id="rect879-5-9" d="m68.014 10.936c-2.9726 1.4662-5.0137 4.5138-5.0137 8.0645 0 3.5454 2.0346 6.5898 5 8.0586v14.941c0 1.108 0.892 2 2 2h4c1.108 0 2-0.892 2-2v-14.941c2.9654-1.4688 5-4.5132 5-8.0586 0-3.5507-2.0411-6.5982-5.0137-8.0645 0.001501 0.022513 0.013672 0.041547 0.013672 0.064453v8c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-8c0-0.02291 0.01217-0.04194 0.01367-0.06445zm-1.0137 1.8809v6.1836c0 1.0907 0.9093 2 2 2h6c1.0907 0 2-0.9093 2-2v-6.1836c1.8136 1.4592 3 3.6526 3 6.1836 0 3.1628-1.8075 5.8565-4.4434 7.1621a1.0001 1.0001 0 0 0-0.55664 0.89648v14.941c0 0.5713-0.4287 1-1 1h-4c-0.5713 0-1-0.4287-1-1v-14.941a1.0001 1.0001 0 0 0-0.55664-0.89648c-2.6359-1.3056-4.4434-3.9993-4.4434-7.1621 0-2.531 1.1864-4.7244 3-6.1836z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".25" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <rect id="rect921-9" x="71" y="39" width="2" height="2" ry="1" opacity=".25" style="paint-order:normal"/>
+  </g>
+ </g>
+</svg>

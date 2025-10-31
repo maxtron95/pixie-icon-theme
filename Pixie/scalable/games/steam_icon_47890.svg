@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <linearGradient id="linearGradient1508" x1="24" x2="24" y1="24" y2="35" gradientTransform="translate(.023438)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1502" stop-color="#53af2d" offset="0"/>
+   <stop id="stop1504" stop-color="#53af2d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#70d5d1" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path1527" d="m23.971 9c-0.9832 0.017471-1.898 0.51765-2.4434 1.3359l-8 12c-0.67008 1.0053-0.67008 2.3228 0 3.3281l8 12c1.168 1.7513 3.8242 1.7513 4.9922 0l8-12c0.67008-1.0053 0.67008-2.3228 0-3.3281l-8-12c-0.56596-0.8492-1.5285-1.3537-2.5488-1.3359z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path1000" d="m23.988 10c-0.6562 0.01166-1.2649 0.34449-1.6289 0.89062l-8 12c-0.44779 0.6718-0.44779 1.5469 0 2.2188l8 12c0.79177 1.1872 2.5364 1.1872 3.3281 0l8-12c0.44779-0.6718 0.44779-1.5469 0-2.2188l-8-12c-0.37779-0.56686-1.0181-0.90247-1.6992-0.89062z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#97e266" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="path1002" d="m24.027 10c-0.41518-0.00176-0.78827 0.25319-0.9375 0.64062l-5 13c-0.046272 0.12021-0.060621 0.24051-0.060547 0.35938h11.988c7.4e-5 -0.11886-0.01427-0.23917-0.06055-0.35938l-5-13c-0.1482-0.38477-0.51736-0.63915-0.92968-0.64062z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#e7ffd0" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="rect1484" d="m14.023 24c0 0.38674 0.11204 0.77347 0.33594 1.1094l8 12c0.39588 0.59359 1.03 0.89062 1.6641 0.89062s1.2682-0.29704 1.6641-0.89062l8-12c0.2239-0.3359 0.33594-0.72264 0.33594-1.1094z" fill="url(#linearGradient1508)" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path1002-8" d="m18.029 24c-7.4e-5 0.11886 0.01427 0.23917 0.06055 0.35938l5 13c0.32854 0.85532 1.5386 0.85532 1.8672 0l5-13c0.046269-0.12021 0.060618-0.24051 0.060544-0.35938z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#97e266" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

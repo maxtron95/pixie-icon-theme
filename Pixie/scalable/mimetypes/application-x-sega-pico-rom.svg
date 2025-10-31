@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-6">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect820" x="6" y="2" width="36" height="40" ry="4" fill="#7e75df" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect828-9" d="m6 38v4c0 2.216 1.784 4 4 4h28c2.216 0 4-1.784 4-4v-4h-32z" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect833-1" x="7" y="37" width="34" height="1" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect835-9" x="11" y="39" width="2" height="5" ry="1" fill="#ffcd4b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect837-6" x="15" y="39" width="2" height="5" ry="1" fill="#ffcd4b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect839-6" x="19" y="39" width="2" height="5" ry="1" fill="#ffcd4b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect841-9" x="23" y="39" width="2" height="5" ry="1" fill="#ffcd4b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect843-7" x="27" y="39" width="2" height="5" ry="1" fill="#ffcd4b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect845-0" x="31" y="39" width="2" height="5" ry="1" fill="#ffcd4b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect847-9" x="35" y="39" width="2" height="5" ry="1" fill="#ffcd4b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect926" d="m10 2c-2.216 0-4 1.784-4 4v36c0 2.216 1.784 4 4 4h28c2.216 0 4-1.784 4-4v-36c0-2.216-1.784-4-4-4h-28zm0 1h28c1.662 0 3 1.338 3 3v36c0 1.662-1.338 3-3 3h-28c-1.662 0-3-1.338-3-3v-36c0-1.662 1.338-3 3-3z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect902" x="22" y="8" width="4" height="24" ry="2" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect902-8" transform="rotate(90)" x="18" y="-36" width="4" height="24" ry="2" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect902-7" transform="rotate(-45)" x=".82843" y="19.113" width="4" height="24" ry="2" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect902-8-8" transform="rotate(45)" x="29.113" y="-14.828" width="4" height="24" ry="2" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect937" x="15" y="11" width="18" height="18" ry="9" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect939" x="17" y="13" width="14" height="14" ry="7" fill="#7e75df" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path943" d="m28 21s-1 3-4 3-4-3-4-3" fill="none" stroke="#ffd34e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <rect id="rect945" x="20" y="17" width="2" height="2" ry="1" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect947" x="26" y="17" width="2" height="2" ry="1" fill="#ffd34e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

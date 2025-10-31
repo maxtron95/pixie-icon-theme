@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-8">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-8-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-3">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" fill-rule="evenodd">
+  <rect id="rect820" x="6" y="2" width="36" height="44" ry="4" fill="#86b1fc" style="paint-order:stroke fill markers"/>
+  <path id="rect926" d="m10 2c-2.216 0-4 1.784-4 4v36c0 2.216 1.784 4 4 4h28c2.216 0 4-1.784 4-4v-36c0-2.216-1.784-4-4-4h-28zm0 1h28c1.662 0 3 1.338 3 3v36c0 1.662-1.338 3-3 3h-28c-1.662 0-3-1.338-3-3v-36c0-1.662 1.338-3 3-3z" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect828" x="8" y="40" width="32" height="4" ry="2" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="rect859" d="m24 8c-6.648 0-12 5.352-12 12s5.352 12 12 12 12-5.352 12-12-5.352-12-12-12zm-0.015625 2c1.1742 0 1.9703 0.10874 3.0156 0.47656v1.1934s0.32455 2.3301-1.3457 2.3301h-3.6543v2.3301s3.33e-4 1.6699-1.6699 1.6699h-1.3301v2.0215h7.3301c1.6703 0 1.6699 1.6699 1.6699 1.6699v3.3418h0.99609c1.4569 0 2.279 0.63498 2.7422 1.3516-1.835 2.2364-4.7706 3.6582-7.9023 3.6582-0.282 0-0.55996-0.020349-0.83594-0.042969v-1.627c-3.3405 0-3-3.3398-3-3.3398v-1.6719l-5.7773-5.5859c1.0158-4.4616 4.9838-7.7754 9.7617-7.7754z" opacity=".4" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

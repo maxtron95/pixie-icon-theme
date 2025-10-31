@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-6">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-9">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-8">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-63">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-6-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path832" d="m10 2a4.0004 4.0004 0 0 0-4 4v36a4.0004 4.0004 0 0 0 4 4h28a4.0004 4.0004 0 0 0 4-4v-26a4.0004 4.0004 0 0 0-1.1719-2.8281l-10-10a4.0004 4.0004 0 0 0-2.8281-1.1719z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#7d92e4" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="path819-8" d="m10 2c-2.209 2.209e-4 -3.9998 1.791-4 4v36c2.209e-4 2.209 1.791 3.9998 4 4h28c2.209-2.21e-4 3.9998-1.791 4-4v-26c-2.04e-4 -1.0608-0.42173-2.0781-1.1719-2.8281l-10-10c-0.75005-0.75014-1.7673-1.1717-2.8281-1.1719zm0 1h18c0.79601 1.532e-4 1.5583 0.31601 2.1211 0.87891l10 10c0.5629 0.56283 0.87875 1.3251 0.87891 2.1211v26c-1.67e-4 1.6687-1.3313 2.9998-3 3h-28c-1.6687-1.67e-4 -2.9998-1.3313-3-3v-36c1.668e-4 -1.6687 1.3313-2.9998 3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="rect856" d="m12 6c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h24c1.108 0 2-0.892 2-2v-23c-5.1e-5 -0.2652-0.10543-0.51952-0.29297-0.70703l-10-10c-0.18751-0.18754-0.44183-0.29292-0.70703-0.29297h-15z" fill-rule="evenodd" opacity=".5" style="paint-order:stroke fill markers"/>
+  <rect id="rect845" x="14" y="18" width="3.178" height="15.89" fill="#7d92e4" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path847" d="m32.498 25.596 1.1222-1.9383s-1.8707-0.91814-3.3665-0.91814c-1.5921 0-4.0806 0.87031-4.0806 2.9584 0 3.449 4.9987 3.4115 4.9987 4.9647 0 0.77758-1.2287 0.98615-2.0063 0.98615-1.5891 0-2.9244-0.95214-2.9244-0.95214v2.3804s0.74032 0.85013 3.1965 0.85013c2.858 0 4.7947-1.2906 4.7947-3.2305 0-3.1463-5.3048-3.7347-5.3048-5.1688 0-0.51906 0.80713-0.81612 1.3262-0.81612 1.5183 0 2.2443 0.88413 2.2443 0.88413z" fill="#7d92e4"/>
+  <path id="path849" d="m16.383 20.383h3.178s1.589 0 1.589 2.3835c0 3.178-1.589 3.178-1.589 3.178h-3.178v2.3835h3.178s4.7669 0 4.7669-5.5614c0-4.7669-4.7669-4.7669-4.7669-4.7669h-3.178z" fill="#7d92e4"/>
+ </g>
+</svg>

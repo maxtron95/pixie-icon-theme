@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-8">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#86b1fc" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path891" d="m9 8c10.245 7.694 15.309 13.182 15.309 13.182l1.6797-0.39258c0 1e-6 -5.2019-7.0489-16.988-12.789zm1.0586 3.9043 0.94336 1.5352s-2.0166-0.76744-3.4023-0.31641c-0.52248-0.5098-1.0754-0.83529-1.5996-1.0605v23.938c0 3.324 2.676 6 6 6h4.9766c-1.7173-8.6739-9.9191-11.347-8.8496-18.035 0.38252-2.3921 1.0084-3.5628 3.4219-3.7715 3.9263-0.33947 9.1074 4.6426 9.1074 4.6426 0 0-0.0053 2.8711 0.79102 3.9551 1.4956 2.0359 4.5703 2.2042 6.6484 3.6406 2.4006 1.6594 6.0625 5.6973 6.0625 5.6973s2.2223-2.1688 3.877-3.7188c-5.2336-1.84-7.4863-4.2734-7.4863-4.2734s1.3739-0.89859 1.0293-1.3457c-2.0624-2.6757-3.2087-4.2414-5.1445-6.8047-0.61733-0.81742-3.0078 0.63281-3.0078 0.63281s-6.2342-7.5768-9.9707-8.2305c-0.89725-2.4396-3.3965-2.4844-3.3965-2.4844zm16.951 13.525 2.168 3.25-2.4219-1.5293 0.25391-1.7207z" fill="#fff"/>
+ </g>
+</svg>

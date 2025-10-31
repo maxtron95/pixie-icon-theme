@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect820" x="6" y="2" width="36" height="44" ry="4" fill="#efefef" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect926" d="m10 2c-2.216 0-4 1.784-4 4v36c0 2.216 1.784 4 4 4h28c2.216 0 4-1.784 4-4v-36c0-2.216-1.784-4-4-4h-28zm0 1h28c1.662 0 3 1.338 3 3v36c0 1.662-1.338 3-3 3h-28c-1.662 0-3-1.338-3-3v-36c0-1.662 1.338-3 3-3z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path818-9" d="m23.984 10c-0.25977 0.0041-0.50774 0.10921-0.69141 0.29297l-5 5c-0.39037 0.39053-0.39037 1.0235 0 1.4141l5 5c0.39053 0.39037 1.0235 0.39037 1.4141 0l5-5c0.39037-0.39053 0.39037-1.0235 0-1.4141l-5-5c-0.19132-0.19141-0.45205-0.29711-0.72266-0.29297zm-8 8c-0.25977 0.0041-0.50774 0.10921-0.69141 0.29297l-5 5c-0.39037 0.39053-0.39037 1.0235 0 1.4141l5 5c0.39053 0.39037 1.0235 0.39037 1.4141 0l5-5c0.39037-0.39053 0.39037-1.0235 0-1.4141l-5-5c-0.19132-0.19141-0.45205-0.29711-0.72266-0.29297zm16 0c-0.25977 0.0041-0.50774 0.10921-0.69141 0.29297l-5 5c-0.39037 0.39053-0.39037 1.0235 0 1.4141l5 5c0.39053 0.39037 1.0235 0.39037 1.4141 0l5-5c0.39037-0.39053 0.39037-1.0235 0-1.4141l-5-5c-0.19132-0.19141-0.45205-0.29711-0.72266-0.29297zm-8 8c-0.25977 0.0041-0.50774 0.10921-0.69141 0.29297l-5 5c-0.39037 0.39053-0.39037 1.0235 0 1.4141l5 5c0.39053 0.39037 1.0235 0.39037 1.4141 0l5-5c0.39037-0.39053 0.39037-1.0235 0-1.4141l-5-5c-0.19132-0.19141-0.45205-0.29711-0.72266-0.29297z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

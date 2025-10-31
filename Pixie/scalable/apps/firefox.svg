@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-12">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-0">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-3">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-12-9">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#8e58b5" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect825" d="m24 18c-7.202 0-13 5.798-13 13s5.798 13 13 13 13-5.798 13-13-5.798-13-13-13zm0 1c6.648 0 12 5.352 12 12s-5.352 12-12 12-12-5.352-12-12 5.352-12 12-12z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path853" d="m23 18s2-5 8-10c2 7 12.996 8.9806 12.996 15.981 0 9-6.596 16.019-6.596 16.019s3.6-22-14.4-22z" fill="#ffd34e"/>
+  <path id="path859" d="m9 21s2-4 5-5c0 2 1 6 1 6z" fill="#e76c5e"/>
+  <path id="path855" d="m9 14s-2.5961 1.7395-5 5.0508v16.949c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-12s0 19-20 19c-5.099 0-11.178-4.2658-11-9 0.15255-4.066 11-7 11-7-6-3-8-7-11-7h-3l-1-6z" fill="#f59f4d"/>
+  <path id="path857" d="m30 24s5 3 5 9c0 8-14 11-14 11h15s3-4 3-10c0-9-9-10-9-10z" fill="#e76c5e"/>
+  <path id="path863" d="m6 27s3.2051-0.99124 5-1.0108c2.8478-0.03095 5.1613 1.7812 8 2.0108 1.6941 0.13699 5-1 5-1s-1 2-3 3c0 0-5.9859 0-6.9859 4-0.80845 3.2338 4.9859 7.9 4.9859 7.9s-7-2.9-7-10.9c-5-1-6-4-6-4z" fill="#ffe595"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

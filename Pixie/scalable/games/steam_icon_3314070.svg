@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-9">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#485fa9" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect1205" d="m24 28c-7.1927 0-13.609 1.3133-18 3.3887v4.6113c0 3.2567 2.5706 5.8849 5.8008 5.9902-2.3594-1.0594-3.8008-2.4533-3.8008-3.9902 0-3.324 6.69-6 15-6h2c8.31 0 15 2.676 15 6 0 1.537-1.4413 2.9308-3.8008 3.9902 3.2302-0.1053 5.8008-2.7335 5.8008-5.9902v-4.6113c-4.3914-2.0753-10.807-3.3887-18-3.3887z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path1527" d="m23.971 9c-0.9832 0.017471-1.898 0.51765-2.4434 1.3359l-8 12c-0.67008 1.0053-0.67008 2.3228 0 3.3281l8 12c1.168 1.7513 3.8242 1.7513 4.9922 0l8-12c0.67008-1.0053 0.67008-2.3228 0-3.3281l-8-12c-0.56596-0.8492-1.5285-1.3537-2.5488-1.3359z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path1000" d="m23.988 10c-0.6562 0.01166-1.2649 0.34449-1.6289 0.89062l-8 12c-0.44779 0.6718-0.44779 1.5469 0 2.2188l8 12c0.79177 1.1872 2.5364 1.1872 3.3281 0l8-12c0.44779-0.6718 0.44779-1.5469 0-2.2188l-8-12c-0.37779-0.56686-1.0181-0.90247-1.6992-0.89062z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#53af2d" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="path1250" d="m28 23-7 3-6.9746-1.9922c0.001535 0.38406 0.11164 0.76798 0.33398 1.1016l8 12c0.391 0.58626 1.0144 0.88144 1.6406 0.88867l4-14.998z" fill="#97e266"/>
+  <path id="path1247" d="m23.988 10c-0.095384 0.001695-0.18652 0.024127-0.2793 0.039062l-3.6797 14.719a1.0001 1.0001 0 0 0 1.1113 1.2324l12.861-1.8379c0.033612-0.43699-0.06088-0.88129-0.31445-1.2617l-8-12c-0.37779-0.56686-1.0181-0.90247-1.6992-0.89062z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#e7ffd0" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

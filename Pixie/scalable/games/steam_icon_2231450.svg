@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373" x="4" y="4" width="40" height="40" ry="8" fill="#fae0cb" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path1034" d="m18.154 30.924-12.146 5.2148c0.073957 3.2588 2.715 5.8613 5.9922 5.8613h24c3.2772 0 5.9182-2.6026 5.9922-5.8613l-12.146-5.2148h-11.691z" fill="#faadad"/>
+  <path id="path933" d="m8.7734 4.6777c-2.8147 1.2365-4.7734 4.0406-4.7734 7.3223v12l5-5-3-2 3-4-2-3 1.7734-5.3223z" fill="#4e4e4e"/>
+  <path id="path933-8" d="m39.227 4.6777 1.7734 5.3223-2 3 3 4-3 2 5 5v-12c0-3.2817-1.9587-6.0857-4.7734-7.3223z" fill="#4e4e4e"/>
+  <path id="path829" d="m5 30.923 13.154 2.9231v5.8462z" fill="#56595b"/>
+  <rect id="rect834-2" x="22" y="14" width="16" height="16" ry="8" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect834" x="10" y="14" width="16" height="16" ry="8" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect868" d="m18 14c-4.432 0-8 3.568-8 8s3.568 8 8 8c2.3977 0 4.5362-1.0506 6-2.7109 1.4638 1.6604 3.6023 2.7109 6 2.7109 4.432 0 8-3.568 8-8s-3.568-8-8-8c-2.3977 0-4.5362 1.0506-6 2.7109-1.4638-1.6604-3.6023-2.7109-6-2.7109zm0 1c2.5564 0 4.7784 1.3609 6 3.3965 1.2216-2.0356 3.4436-3.3965 6-3.3965 3.878 0 7 3.122 7 7s-3.122 7-7 7c-2.5564 0-4.7784-1.3609-6-3.3965-1.2216 2.0356-3.4436 3.3965-6 3.3965-3.878 0-7-3.122-7-7s3.122-7 7-7z" fill-rule="evenodd" opacity=".25" style="paint-order:stroke fill markers"/>
+  <path id="path829-1" d="m43 30.923-13.154 2.9231v5.8462z" fill="#56595b"/>
+  <rect id="rect902" x="17" y="21" width="2" height="2" ry="1" fill="#56595b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect904" x="29" y="21" width="2" height="2" ry="1" fill="#56595b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path915" d="m12 4c-2.0837 0-3.9699 0.79542-5.3906 2.0918 0.9928 0.96789 2.4437 1.9082 4.3906 1.9082 4 0 7-2 7-2s3.8918 2 6 2 6-2 6-2 3 2 7 2c1.947 0 3.3978-0.94031 4.3906-1.9082-1.4207-1.2964-3.3069-2.0918-5.3906-2.0918h-12-12z" fill="#fff"/>
+  <path id="rect987" d="m30 18c-2.216 0-4 1.784-4 4s1.784 4 4 4 4-1.784 4-4-1.784-4-4-4zm0 1c1.662 0 3 1.338 3 3s-1.338 3-3 3-3-1.338-3-3 1.338-3 3-3z" fill="#56595b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path851" d="m12 12s2 1.7 6 0.7 4-3.7 4-3.7-1 1-4 2-6 1-6 1z" fill="#4e4e4e"/>
+  <path id="path851-2" d="m36 12s-2 1.7-6 0.7-4-3.7-4-3.7 1 1 4 2 6 1 6 1z" fill="#4e4e4e"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="rect830" d="m24 25c-3.324 0-6 2.676-6 6v13h12v-13c0-3.324-2.676-6-6-6z" fill="#fae0cb" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect835" d="m24 25c-3.324 0-6 2.676-6 6v13h12v-13c0-3.324-2.676-6-6-6zm0 1c2.77 0 5 2.23 5 5v12h-10v-12c0-2.77 2.23-5 5-5z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

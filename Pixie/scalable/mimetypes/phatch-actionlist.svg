@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect820-0" x="6" y="2" width="36" height="44" ry="4" fill="#efefef" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect926" d="m10 2c-2.216 0-4 1.784-4 4v36c0 2.216 1.784 4 4 4h28c2.216 0 4-1.784 4-4v-36c0-2.216-1.784-4-4-4h-28zm0 1h28c1.662 0 3 1.338 3 3v36c0 1.662-1.338 3-3 3h-28c-1.662 0-3-1.338-3-3v-36c0-1.662 1.338-3 3-3z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path855" d="m22 16c-10 0-12 9-12 9s5 7 12 7c12 0 16-7 16-7s-4-9-16-9zm-1 1h2v1.0898c0.91324 0.15228 1.754 0.50601 2.4766 1.0195l0.76563-0.76562 1.4141 1.4141-0.76562 0.76563c0.51352 0.72252 0.86725 1.5633 1.0195 2.4766h1.0898v2h-1.0898c-0.15228 0.91324-0.50601 1.754-1.0195 2.4766l0.76562 0.76563-1.4141 1.4141-0.76563-0.76562c-0.72252 0.51352-1.5633 0.86725-2.4766 1.0195v1.0898h-2v-1.0898c-0.91324-0.15228-1.754-0.50601-2.4766-1.0195l-0.76563 0.76562-1.4141-1.4141 0.76562-0.76563c-0.51352-0.72252-0.86725-1.5633-1.0195-2.4766h-1.0898v-2h1.0898c0.15228-0.91324 0.50601-1.754 1.0195-2.4766l-0.76562-0.76563 1.4141-1.4141 0.76563 0.76562c0.72252-0.51352 1.5633-0.86725 2.4766-1.0195z" fill="#7ebc53"/>
+  <rect id="rect905" x="19" y="21" width="6" height="6" ry="3" fill="#7ebc53" fill-rule="evenodd" style="paint-order:normal"/>
+ </g>
+</svg>

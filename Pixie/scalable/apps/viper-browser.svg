@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#96d56b" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path874-9" d="m12 6c-3.324 0-6 2.676-6 6v9l10 10v5c0 5 6 5 6 5v1h14c3.324 0 6-2.676 6-6v-0.64844c-0.88464-0.78406-2.1576-1.3516-4-1.3516h-6v-6s0-4-4-4h-13v-3h3c4 0 4-4 4-4v-7h7c3 0 3-3 3-3v-1h-20z" opacity=".25"/>
+  <path id="path838" d="m11 18s0 13.461 10 17c8 2.8313 16-6 16-6s-2-11.829-11-15c-7-2.4661-15 4-15 4z" opacity=".5"/>
+  <path id="rect818" d="m19.869 12.738c-4.5978 1.6784-7.8691 6.0689-7.8691 11.262 0 1.8601 0.43056 3.6114 1.1797 5.1797l1.8203 1.8203 4 3 5.293 1.9844c6.3102-0.15126 11.37-5.1192 11.676-11.389l-1.9688-4.5957-6-5-8-2z" fill="#dd5c89" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path820" d="m24 14s-4 4-4 10 4 10 4 10 4-4 4-10-4-10-4-10z" fill="#4e4e4e"/>
+  <path id="path833" d="m21.072 12.348c-6.6455 0.37134-11.072 5.6523-11.072 5.6523l1 1s-2 12.166 10 16.363c9 3.1478 17-6.3631 17-6.3631s-3-13.095-12-16c-1.7428-0.5625-3.3942-0.73804-4.9277-0.65234zm0.70312 1.7713c0.73511-0.027667 1.4804 0.044732 2.2246 0.24414 10 2.6795 13 14.637 13 14.637s-8.1556 7.0519-13.156 6.0519c-13.197-2.6394-11.844-16.052-11.844-16.052s4.6296-4.6874 9.7754-4.8811z" fill="#4e4e4e"/>
+ </g>
+</svg>

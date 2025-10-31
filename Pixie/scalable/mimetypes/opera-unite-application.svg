@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-9">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-8">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#efefef" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path844" d="m23.901 23.195s4.9329-0.79928 5.6354 1.7832c1.3351 4.9079-2.0279 5.3092-1.2743 9.4601 0.33821 1.8628 2.3698 3.5452 4.4267 3.4967 2.4973-0.05887 5.1586-1.6379 5.2984-5.4171 0.09364-2.5312-1.3786-6.3807-5.3947-8.8098-4.8503-2.9336-8.6916-0.51303-8.6916-0.51303z" fill="#9b5b3e"/>
+  <path id="path844-1" d="m27.567 25.984s-1.7864 4.7669-4.3263 4.099c-4.827-1.2693-3.4874-4.4474-7.3822-5.8534-1.7479-0.63098-4.1887 0.32748-5.175 2.173-1.1975 2.2406-1.1883 5.3856 1.9452 7.3971 2.0988 1.3472 6.0971 1.9665 10.162-0.37618 4.9093-2.8292 4.7762-7.4394 4.7762-7.4394z" fill="#9b5b3e"/>
+  <path id="path844-1-8" d="m23.631 27.853s-3.1656-3.9483-1.3392-5.8719c3.471-3.6558 5.5079-0.89147 8.6331-3.652 1.4025-1.2389 1.7977-3.8806 0.71822-5.6708-1.3106-2.1735-3.9878-3.7241-7.2502-1.9394-2.1851 1.1954-4.693 4.4377-4.7168 9.2072-0.02883 5.7601 3.9549 7.9268 3.9549 7.9268z" fill="#9b5b3e"/>
+ </g>
+</svg>

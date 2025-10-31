@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#b7bfc2" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="path860" d="m42.689 21c-1.4832-0.075846-0.92169 4.0742-2.6895 4.0742-1.4142 0-1.604-3.2265-3-3-2.2072 0.35818-0.83884 5.4261-3 6-2.3232 0.61695-3.6914-4.6696-6-4-3.153 0.91447-0.8103 8.2231-4 9-2.0737 0.5051-3.0066-4.7628-5-4-1.8937 0.7246 0.96213 5.489-1 6-2.0655 0.53796-1.8887-5.3129-4-5-1.7757 0.26313-0.2416 4.6391-2 5-1.3853 0.28435-1.6465-3.4098-3-3-1.6267 0.49254-1.3298 3.3326-1 5 0.23324 1.179 0.80878 3.1595 2 3 1.0448-0.13991-0.044766-2.8601 1-3 1.1912-0.15952 0.81578 3.2051 2 3 1.3542-0.23457 0.21246-2.1662 1.5868-2.1662s1.1067 1.7397 2.4132 2.1662c2.4749 0.80792 1.4098-5.2616 4-5 2.1236 0.21448 1.8657 5.0146 4 5 3.8005-0.02603 3.2179-5.1934 7-4.8189 1.4835 0.14689 0.50986 3.9586 2 4 2.6864 0.07456 1.3553-6.523 4-7 2.5621-0.46213 2.6424 6.1043 5 5v-16.181c-0.10888-0.0451-0.21166-0.069162-0.31055-0.074219z" opacity=".3"/>
+  <rect id="rect878" x="10" y="10" width="13" height="13" ry="6.5" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect878-7" x="23" y="8" width="13" height="13" ry="6.5" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect895" x="15" y="16" width="6" height="6" ry="3" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect id="rect895-3" x="28" y="14" width="6" height="6" ry="3" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

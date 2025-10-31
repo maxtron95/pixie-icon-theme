@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Accent {
+        color:#3daee9;
+      }</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path875" d="m6 10v28h36v-26h-21l-2-2z" fill="#e9bf73" stroke="#e9bf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path id="path820" d="m6 6c-2.209 2.209e-4 -3.9998 1.791-4 4v28c2.209e-4 2.209 1.791 3.9998 4 4h36c2.209-2.21e-4 3.9998-1.791 4-4v-18-6-2c0-2.216-1.784-4-4-4h-19.344l-0.82812-0.82812c-0.75005-0.75014-1.7673-1.1717-2.8281-1.1719h-13zm0 6h36c1.662 0 3 1.338 3 3v23c0 1.662-1.338 3-3 3h-36c-1.662 0-3-1.338-3-3v-23c0-1.662 1.338-3 3-3z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".3" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="rect818" d="m16 18v16h16v-16h-16zm1 1h14v14h-14v-14z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <path id="rect823" d="m24 16c-5.54 0-10 4.46-10 10s4.46 10 10 10 10-4.46 10-10-4.46-10-10-10zm0 1c4.986 0 9 4.014 9 9s-4.014 9-9 9-9-4.014-9-9 4.014-9 9-9z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

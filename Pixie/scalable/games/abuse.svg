@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-3">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+  <rect id="rect828" x="16" y="10" width="16" height="18" rx="8" ry="9" fill="#e5b8a7" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path830" d="m16 25s2 7 8 7 8-7 8-7v6c0 2 0 3.9728-2.9932 3.9728-1.0068 0-2.0068 3.0272-5.0068 3.0272s-4-2.9416-5.0924-2.9416c-2.9076 0-2.9076-2.0584-2.9076-4.0584z" fill="#e5b8a7"/>
+  <path id="path834" d="m13 18c-3 0-3 7-3 7l5 2s-1-9-2-9zm22 0c-1 0-2 9-2 9l5-2s0-7-3-7zm-29 7v5l8 2v-4l-8-3zm36 0-8 3v4l8-2v-5zm-34 8 3 9h4s2-1 2-3c0-1.7951-2-5-2-5l-7-1zm32 0-7 1s-2 3.2049-2 5c0 2 2 3 2 3h4l3-9zm-22 3s2 2.5093 2 4c0 1-1 2-1 2h5 5s-1-1-1-2c0-1.4907 2-4 2-4h-1s-2 4-5 4-5-4-5-4h-1z" fill="#b7bfc2"/>
+ </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-7">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="rect1373-5" d="m12 4c-4.432 0-8 3.568-8 8v16l26 16h6c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24z" fill="#efefef" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path821" d="m6 28 4-4h19v14l-4 4z" fill="#627ad4" stroke="#627ad4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path id="rect819" d="m6 26c-1.108 0-2 0.892-2 2v8c0 4.432 3.568 8 8 8h13c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2h-19z" fill="#46589d" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+  <rect id="rect844" x="9" y="22" width="14" height="3" rx="6.9847" ry="1.5" fill="#46589d" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path840" d="m24 40 10-18 10 18s-0.95694 4-10 4-10-4-10-4z" fill="#ffdd75" stroke="#ffdd75" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <rect id="rect842" x="12" y="6" width="18" height="18" ry="9" fill="#d35244" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect984" d="m22.066 6.0684c-3.432 0.45508-6.0664 3.3714-6.0664 6.9316 0 3.878 3.122 7 7 7 3.5603 0 6.4766-2.6344 6.9316-6.0664-0.48436-4.128-3.7372-7.3809-7.8652-7.8652z" fill="#f97263" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path1002" d="m33.99 20.002-0.97852 0.26172a2.0002 2.0002 0 0 0-0.75977 0.76562l-10 18a2.0002 2.0002 0 0 0-0.19726 1.4355s0.17485 0.62727 0.5332 1.209c0.35835 0.58172 0.94535 1.2869 1.8418 1.9414 0.82034 0.59896 1.9001 1.1439 3.2754 1.5645l6.2949-25.178a2.0002 2.0002 0 0 0-0.0098 0z" fill="#f6a559"/>
+  <path id="rect1026" d="m21 6c-4.986 0-9 4.014-9 9s4.014 9 9 9 9-4.014 9-9-4.014-9-9-9zm0 1c4.432 0 8 3.568 8 8s-3.568 8-8 8-8-3.568-8-8 3.568-8 8-8z" fill-rule="evenodd" opacity=".25" style="paint-order:stroke fill markers"/>
+  <path id="path1107" d="m33.928 20.002a2.0002 2.0002 0 0 0-1.6758 1.0273l-10 18a2.0002 2.0002 0 0 0-0.19726 1.4355s0.17485 0.62727 0.5332 1.209c0.35835 0.58172 0.94535 1.2869 1.8418 1.9414 1.7929 1.309 4.7539 2.3848 9.5703 2.3848s7.7774-1.0757 9.5703-2.3848c0.89644-0.65452 1.4834-1.3597 1.8418-1.9414 0.35835-0.58172 0.5332-1.209 0.5332-1.209a2.0002 2.0002 0 0 0-0.19726-1.4355l-10-18a2.0002 2.0002 0 0 0-1.8203-1.0273zm0.03516 1h2e-3c0.3772-0.01289 0.72482 0.18366 0.9082 0.51367l10 18c0.11991 0.21579 0.15239 0.46658 0.09766 0.70703-0.0081 0.02682-0.15114 0.50532-0.41016 0.92578-0.29186 0.47378-0.79199 1.0828-1.5801 1.6582-1.5802 1.1537-4.313 2.1934-8.9805 2.1934s-7.4004-1.0397-8.9805-2.1934c-0.78808-0.5754-1.2882-1.1844-1.5801-1.6582-0.25901-0.42046-0.40207-0.89897-0.41016-0.92578-0.05474-0.24045-0.02226-0.49124 0.09766-0.70703l10-18c0.17053-0.3069 0.48519-0.50031 0.83594-0.51367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".25" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

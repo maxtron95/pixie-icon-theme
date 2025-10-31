@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs815">
+  <style id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-4">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style819-6">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2-9">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  <style id="style819-1-5">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata id="metadata818">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect1373-5" x="4" y="4" width="40" height="40" ry="8" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="rect817" d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8h-24zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+  <path id="path828" d="m16 38 8 4 8-4z" fill="#fff"/>
+  <path id="path830" d="m16 10v2.4527h-3.3197v4.9659h3.1715v2.4224h-3.0826v5.2385h3.2308v2.5435h-6.0169v-17.593z" fill="#fff"/>
+  <path id="path832" d="m18 10v17.532l2.4406 0.06082v-6.3697h1.6835c1.1328 0 2.6934-0.71 2.6934-3.0032v-5.2778c0-2.8909-2.525-2.942-2.525-2.942zm3.6044 2.4043s0.85829 0.0086 0.85829 0.92755v4.6435c0 0.90218-0.86327 0.93294-0.86327 0.93294h-1.1701v-6.4986z" fill="#fff"/>
+  <rect id="rect837" x="26.017" y="9.9476" width="2.8373" height="17.626" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path id="path839" d="m35.244 20.364h2.7966v4.6503s-0.41677 2.7002-2.7358 2.7002h-2.1279c-2.9495 0-2.9334-2.8952-2.9334-2.8952v-11.926s0.02253-2.8577 2.8954-2.8577h1.7707c3.0361 0 2.9828 2.9439 2.9828 2.9439v3.814h-2.6181v-3.5402s-0.0258-0.87006-0.69916-0.87006h-0.94235c-0.72248 0-0.79036 0.84005-0.79036 0.84005v11.191s0.0279 0.90006 0.79036 0.90006h0.72956c1.0126 0 0.88155-0.96006 0.88155-0.96006z" fill="#fff"/>
+  <path id="path841" d="m13.659 32.06v1.0344h1.0344v0.6989s-0.3496 0.19569-0.89459 0.19569c-0.62601 0-1.2927-0.71623-1.3139-1.3419-0.03709-1.0945 0.71122-1.5376 1.3139-1.5376 0.67601 0 1.1741 0.50321 1.1741 0.50321l0.86663-1.0344s-0.55269-0.58707-2.1246-0.58707c-1.4399 0-2.544 1.3447-2.544 2.544 0 1.4724 1.2953 2.5719 2.4881 2.5719 1.4915 0 2.2365-0.83868 2.2365-0.83868v-2.2365z" fill="#fff"/>
+  <path id="path843" d="m18.523 29.963-2.1805 4.9761h1.4256l0.35934-0.89461h1.8889l0.35189 0.89461h1.3976l-2.0968-4.9761zm0.55905 1.7055 0.51683 1.3139h-1.0447z" fill="#fff"/>
+  <path id="path848" d="m22.325 34.939v-4.9202h1.3698l1.2021 2.0128 1.2021-1.9849h1.3698v4.9482h-1.3698v-2.7956l-1.258 1.8451-1.2021-1.8451v2.7676z" fill="#fff"/>
+  <path id="path850" d="m28.392 30.019v4.9202h3.9138v-1.2021h-2.6278v-0.67094h2.3762v-1.1462h-2.3762v-0.72685h2.6278v-1.1741z" fill="#fff"/>
+  <path id="path852" d="m36.136 31.528 0.67094-0.97846s-1.0348-0.58707-1.873-0.58707c-1.2177 0-1.9587 0.76752-1.9849 1.6214-0.02744 0.89574 0.81253 1.3014 1.4817 1.3698 0.72165 0.07385 1.2535 0.2839 1.258 0.64299 0.0038 0.29598-0.48699 0.40759-0.78276 0.41934-0.48784 0.01939-1.3419-0.58707-1.3419-0.58707l-0.78276 0.83868s0.91748 0.81072 2.1526 0.81072c1.0925 0 2.0249-0.53193 2.0408-1.6214 0.0093-0.63994-0.51668-1.2172-1.286-1.4257-0.46299-0.12553-1.2956-0.10771-1.3139-0.58707-0.0097-0.25416 0.24369-0.37891 0.67094-0.36343 0.49126 0.0178 1.0903 0.44729 1.0903 0.44729z" fill="#fff"/>
+ </g>
+</svg>
