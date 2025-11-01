@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="4" y="4" width="40" height="40" ry="8" fill="#FFE2C8" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <g fill="#08C18F" stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.60845 .79359 -.8451 .53461 0 0)" x="32.396" y="-1.9666" width="4.5795" height="13.861" rx="2.2897" ry="6.9303" stroke-width="2.2999"/>
+  <rect transform="matrix(.9158 .40163 -.44751 .89428 0 0)" x="31.758" y="16.274" width="3.7283" height="11.122" rx="1.8641" ry="5.5608" stroke-width="1.8589"/>
+  <rect transform="matrix(-.60845 .79359 .8451 .53461 0 0)" x="6.5193" y="36.32" width="4.5795" height="13.861" rx="2.2897" ry="6.9303" stroke-width="2.2999"/>
+ </g>
+ <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+ <rect transform="matrix(-.9158 .40163 .44751 .89428 0 0)" x="-11.343" y="35.553" width="3.7283" height="11.122" rx="1.8641" ry="5.5608" fill="#08C18F" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8589"/>
+ <rect x="21" y="17" width="6" height="14" rx="3" ry="7" fill="#FA8672" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <g fill="#ef4739" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="23" y="10" width="2" height="9" rx="3" ry="7" stroke-width="2"/>
+  <rect transform="matrix(.62678 -.7792 .70763 .70658 0 0)" x="2.7654" y="26.386" width="2.0692" height="4.4019" rx="3.1037" ry="4.4019" stroke-width="2.134"/>
+  <rect transform="matrix(-.5363 -.84403 -.78178 .62355 0 0)" x="-30.559" y="-14.317" width="2.0692" height="4.4019" rx="3.1037" ry="4.4019" stroke-width="2.134"/>
+ </g>
+</svg>
