@@ -1,6 +1,8 @@
 # Pixie
 <p align="center">Pixie is a tile-based icon theme.(WIP).</p>
 
+![Preview](https://github.com/maxtron95/pixie-icon-theme/blob/main/pixie-preview.png)
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
