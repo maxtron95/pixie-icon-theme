@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m24 9-20 5v22c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-22z" fill="#3a3d5d" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <path d="m12 4c-4.432 0-8 3.568-8 8v2h40v-2c0-4.432-3.568-8-8-8z" fill="#4e4e4e" fill-rule="evenodd" style="paint-order:normal"/>
+ <g fill="#efefef">
+  <path d="m23 9 3-5h5l-3 5 3 5h-5z"/>
+  <path d="m13 9 3-5h5l-3 5 3 5h-5z"/>
+  <path d="m 36,4 -3,5 3,5 h 5 L 38,9 40.2617,5.2305 C 39.0285,4.45469 37.5706,4 36,4 Z"/>
+ </g>
+ <path d="m4.584 9c-0.37328 0.92637-0.58398 1.9369-0.58398 3v2h40v-2c0-1.0631-0.21071-2.0736-0.58398-3h-38.832z" fill-rule="evenodd" opacity=".25" style="paint-order:normal"/>
+ <path d="M 8.709,4.709 C 5.9295,5.9601 4,8.7439 4,12 v 2 h 9 V 9 Z" fill="#b7bfc2"/>
+ <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+ <rect x="5" y="14" width="38" height="1" fill-rule="evenodd" opacity=".4" style="paint-order:stroke fill markers"/>
+ <path d="m24 18 3.6055 6.0374 6.8561 1.5634-4.6278 5.2947 0.63179 7.0037-6.4656-2.7651-6.4656 2.7651 0.63179-7.0037-4.6278-5.2947 6.8561-1.5634z" fill="#FF7BB2" stroke-linecap="round" stroke-linejoin="bevel"/>
+</svg>
