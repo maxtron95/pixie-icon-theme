@@ -4,7 +4,7 @@
 ![Preview](https://github.com/maxtron95/pixie-icon-theme/blob/main/pixie-preview.png)
 
 ---
-Packages
+Packages:
 
 Arch AUR (unofficial): [pixie-icon-theme-git](https://aur.archlinux.org/packages/pixie-icon-theme-git)
 
