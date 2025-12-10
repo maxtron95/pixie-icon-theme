@@ -3,6 +3,12 @@
 
 ![Preview](https://github.com/maxtron95/pixie-icon-theme/blob/main/pixie-preview.png)
 
+---
+Packages
+
+Arch AUR (unofficial): [pixie-icon-theme-git](https://aur.archlinux.org/packages/pixie-icon-theme-git)
+---
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
