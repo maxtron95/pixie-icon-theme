@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill-rule="evenodd">
+  <rect x="4" y="4" width="40" height="40" ry="8" fill="#f6a559" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="8" width="32" height="32" ry="4" opacity=".5" style="paint-order:stroke fill markers"/>
+  <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+ <text x="11.85" y="33.946999" fill="#aa5ebb" font-family="Sans" font-size="13.333px" font-style="italic" opacity=".3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers" xml:space="preserve"><tspan x="11.85" y="33.946999"/></text>
+ <path d="m17.969 31.59h-3.0543v-14.636h8.3839v2.5418h-5.3296v3.7717h4.9606v2.5418h-4.9606zm15.784-3.3003q0 1.5989-1.1479 2.5623-1.1274 0.94293-3.4847 0.94293-1.1889 0-2.0908-0.16399-0.90194-0.14349-1.7424-0.49196v-2.5623q0.90193 0.43047 1.9269 0.67645 1.0454 0.24598 1.8244 0.24598 0.94293 0 1.3529-0.26648 0.43047-0.26648 0.43047-0.71745 0-0.30748-0.22548-0.55346-0.20498-0.24598-0.75844-0.51246-0.53296-0.26648-1.5374-0.65595-1.4964-0.59446-2.2753-1.3119-0.75844-0.73795-0.75844-2.1318 0-1.5579 1.2094-2.3573 1.2299-0.79944 3.2388-0.79944 1.0659 0 2.0089 0.22548 0.94293 0.22548 1.9064 0.63545l-0.90193 2.1113q-0.77894-0.34847-1.5989-0.57396-0.81994-0.22548-1.4554-0.22548-1.4759 0-1.4759 0.81994 0 0.30748 0.20498 0.53296 0.22548 0.20498 0.75844 0.45097 0.55346 0.24598 1.5374 0.63545 1.0044 0.40997 1.6809 0.84044 0.69695 0.43047 1.0249 1.0659 0.34848 0.61496 0.34848 1.5784z" fill="#f6a559" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0748" style="paint-order:stroke fill markers" aria-label="Fs"/>
+</svg>

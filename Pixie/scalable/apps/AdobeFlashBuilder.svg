@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill-rule="evenodd">
+  <rect x="4" y="4" width="40" height="40" ry="8" fill="#a7a7a7" style="paint-order:stroke fill markers"/>
+  <rect x="8" y="8" width="32" height="32" ry="4" opacity=".5" style="paint-order:stroke fill markers"/>
+  <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+ <text x="11.85" y="33.946999" fill="#aa5ebb" font-family="Sans" font-size="13.333px" font-style="italic" opacity=".3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers" xml:space="preserve"><tspan x="11.85" y="33.946999"/></text>
+ <path d="m17.212 30.937h-3.0136v-14.441h8.2721v2.5079h-5.2586v3.7215h4.8945v2.5079h-4.8945zm10.8-11.791q0 0.62698-0.04045 1.1933-0.04045 0.56631-0.0809 0.99104h0.12135q0.44496-0.68766 1.1933-1.1528 0.74834-0.48541 1.9416-0.48541 1.8405 0 2.9933 1.4562 1.1528 1.436 1.1528 4.2473 0 2.8315-1.1731 4.2878-1.1528 1.4562-3.054 1.4562-1.2135 0-1.9214-0.42473-0.68766-0.44496-1.1326-0.97081h-0.20225l-0.50563 1.1933h-2.3461v-15.371h3.054zm2.1439 2.9731q-1.1528 0-1.6585 0.72811-0.48541 0.72811-0.48541 2.2855v0.36406q0 1.5776 0.46518 2.3866 0.48541 0.78879 1.7192 0.78879 0.99104 0 1.4967-0.84946 0.50563-0.84946 0.50563-2.4675 0-3.236-2.0428-3.236z" fill="#a7a7a7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0338" style="paint-order:stroke fill markers" aria-label="Fb"/>
+</svg>
