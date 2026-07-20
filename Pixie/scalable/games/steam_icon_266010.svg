@@ -3,7 +3,6 @@
 <svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
-  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -13,12 +12,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <rect x="4" y="4" width="40" height="40" ry="8" fill="#dd5c89" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <rect x="4" y="4" width="40" height="40" ry="8" fill="#d6546c" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
  <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
- <g fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-  <path d="m24 11-5 5 5 5 5-5z"/>
-  <path d="m16 19-5 5 5 5 5-5z"/>
-  <path d="m32 19-5 5 5 5 5-5z"/>
-  <path d="m24 27-5 5 5 5 5-5z"/>
- </g>
+ <path d="m15 12-3 3 3 3 3-3-3-3zm3 3 3 3 3-3-3-3-3 3zm6 0 3 3 3-3-3-3-3 3zm6 0 3 3 3-3-3-3-3 3zm3 3-3 3 3 3 3-3-3-3zm0 6-3 3 3 3 3-3-3-3zm0 6-3 3 3 3 3-3-3-3zm-3 3-3-3-3 3 3 3 3-3zm-6 0-3-3-3 3 3 3 3-3zm-6 0-3-3-3 3 3 3 3-3zm-3-3 3-3-3-3-3 3 3 3zm0-6 3-3-3-3-3 3 3 3zm3-3 3 3 3-3-3-3-3 3zm6 0 3 3 3-3-3-3-3 3zm3 3-3 3 3 3 3-3-3-3zm-3 3-3-3-3 3 3 3 3-3z" fill="#eafbd0" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" style="paint-order:stroke fill markers"/>
 </svg>

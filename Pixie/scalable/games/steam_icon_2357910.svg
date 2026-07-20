@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="4" y="4" width="40" height="40" ry="8" fill="#a9bb8d" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
+ <g fill="#feffd1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <path d="m22 10.141c-6.1489 0.87224-10.987 5.7105-11.859 11.859h14.859v-3h-10.809c1.0525-2.0687 2.7398-3.7561 4.8086-4.8086v3.8086h3z" style="paint-order:stroke fill markers"/>
+  <path d="m37.859 22c-0.87224-6.1489-5.7105-10.987-11.859-11.859v14.859h3v-10.809c2.0687 1.0525 3.7561 2.7398 4.8086 4.8086h-3.8086v3z" style="paint-order:stroke fill markers"/>
+  <path d="m26 37.859c6.1489-0.87224 10.987-5.7105 11.859-11.859h-14.859v3h10.809c-1.0525 2.0687-2.7398 3.7561-4.8086 4.8086v-3.8086h-3z" style="paint-order:stroke fill markers"/>
+  <path d="m10.141 26c0.87224 6.1489 5.7105 10.987 11.859 11.859v-14.859h-3v10.809c-2.0687-1.0525-3.7561-2.7398-4.8086-4.8086h3.8086v-3z" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m10 11v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28zm0 2v1h28v-1h-28z" fill="#a9bb8d" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+</svg>

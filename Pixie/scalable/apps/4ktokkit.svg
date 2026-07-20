@@ -3,7 +3,6 @@
 <svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
-  <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -13,12 +12,12 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <rect x="4" y="4" width="40" height="40" ry="8" fill="#dd5c89" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <rect x="4" y="4" width="40" height="40" ry="8" fill="#d15a93" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
  <path d="m12 4c-4.432 0-8 3.568-8 8v24c0 4.432 3.568 8 8 8h24c4.432 0 8-3.568 8-8v-24c0-4.432-3.568-8-8-8zm0 1h24c3.878 0 7 3.122 7 7v24c0 3.878-3.122 7-7 7h-24c-3.878 0-7-3.122-7-7v-24c0-3.878 3.122-7 7-7z" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers"/>
- <g fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-  <path d="m24 11-5 5 5 5 5-5z"/>
-  <path d="m16 19-5 5 5 5 5-5z"/>
-  <path d="m32 19-5 5 5 5 5-5z"/>
-  <path d="m24 27-5 5 5 5 5-5z"/>
+ <g fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <rect x="14" y="14" width="20" height="20" ry="10" style="paint-order:stroke fill markers"/>
+  <rect x="28" y="6" width="6" height="18" style="paint-order:stroke fill markers"/>
+  <path d="m28 6v6h14c0-3.324-2.676-6-6-6z" style="paint-order:stroke fill markers"/>
  </g>
+ <path d="m23.854 19c-0.47284 0-0.85352 0.38068-0.85352 0.85352v5.7324l-2.293-2.293a1 1 0 0 0-1.4141 0 1 1 0 0 0 0 1.4141l4 4a1.0001 1.0001 0 0 0 1.4141 0l4-4a1 1 0 0 0 0-1.4141 1 1 0 0 0-1.4141 0l-2.293 2.293v-5.7324c0-0.47284-0.38068-0.85352-0.85352-0.85352z" fill="#d15a93" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
 </svg>
