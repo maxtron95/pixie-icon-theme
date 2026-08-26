@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="SVGRoot"
+   width="48px"
+   height="48px"
+   version="1.1"
+   viewBox="0 0 48 48"
+   sodipodi:docname="web-lottiefiles.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="11.85877"
+     inkscape:cx="23.611218"
+     inkscape:cy="23.653381"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRoot">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs815">
+    <style
+       id="style819">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     id="rect1373-5"
+     x="4"
+     y="4"
+     width="40"
+     height="40"
+     ry="8"
+     fill="#efefef"
+     style="fill-rule:evenodd;paint-order:stroke fill markers;fill:#25d2b1;fill-opacity:1" />
+  <path
+     id="rect817"
+     d="M 12,4 C 7.568,4 4,7.568 4,12 v 24 c 0,4.432 3.568,8 8,8 h 24 c 4.432,0 8,-3.568 8,-8 V 12 C 44,7.568 40.432,4 36,4 Z m 0,1 h 24 c 3.878,0 7,3.122 7,7 v 24 c 0,3.878 -3.122,7 -7,7 H 12 C 8.122,43 5,39.878 5,36 V 12 C 5,8.122 8.122,5 12,5 Z"
+     opacity="0.3"
+     style="fill-rule:evenodd;paint-order:stroke fill markers" />
+  <path
+     d="m 34.434559,14.055278 c -6.768113,0 -9.276156,4.446919 -11.292876,8.019301 l -1.317674,2.285627 c -2.135203,3.788581 -3.730933,6.091607 -7.842521,6.091607 a 1.9415973,1.7866548 0 0 0 -1.374647,0.523796 1.9431097,1.7880466 0 0 0 7.56e-4,2.528967 1.9473953,1.7919901 0 0 0 1.373891,0.524723 c 6.770886,0 9.27893,-4.447151 11.295649,-8.0193 l 1.314902,-2.285629 c 2.137976,-3.788813 3.733705,-6.091607 7.84252,-6.091607 a 1.9423535,1.7873507 0 0 0 1.376411,-0.523099 1.943614,1.7885106 0 0 0 0.570228,-1.265644 1.9473953,1.7919901 0 0 0 -1.946639,-1.788511 z"
+     fill="#ffffff"
+     id="path3"
+     style="stroke-width:0.241822" />
+</svg>
